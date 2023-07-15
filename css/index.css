@@ -1,0 +1,10 @@
+.index__wrapper {
+    margin: auto;
+    width: 500px;
+}
+
+@media (max-width: 800px) {
+    .index__wrapper {
+        width: 90%;
+    }
+}

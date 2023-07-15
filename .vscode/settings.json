@@ -1,0 +1,9 @@
+{
+    "[javascript]": {
+        "editor.showUnused":  false
+    },
+    "javascript.autoClosingTags": true,
+    "javascript.suggest.autoImports": false,
+    "javascript.format.enable": true,
+    "javascript.suggest.completeJSDocs": true,
+}
